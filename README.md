@@ -1,4 +1,7 @@
-Bitcoin Core integration/staging tree
+AUDUNCOIN!!!!!!!!111111111
+
+Get rich quick with this magic coin
+
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
